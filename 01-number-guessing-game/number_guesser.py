@@ -1,10 +1,17 @@
+# ==========================================
+# VERSION 1: Random Number Generation
+# ==========================================
+
 # import random
 # r =random.randrange(-5, 10)
 # r = random.randint(-5, 11)
 # print(r)
 
-# import random
+# ==========================================
+# VERSION 2: Basic Number Guessing Game
+# ==========================================
 
+# import random
 # top_of_range = input("Type a number: ")
 
 # if top_of_range.isdigit():
@@ -37,8 +44,11 @@
 #       print("You got it wrong! Try again.")          
 
 
-# import random
+# ==========================================
+# VERSION 3: Guess Counter
+# ==========================================
 
+# import random
 # top_of_range = input("Type a number: ")
 
 # if top_of_range.isdigit():
@@ -77,6 +87,25 @@
 
 
 
+# ========================================
+#         NUMBER GUESSING GAME
+# ========================================
+
+# Project: Number Guessing Game
+# Language: Python
+# Description:
+# An interactive guessing game with
+# difficulty levels, scoring and
+# Features:
+# - Three difficulty levels
+# - Limited guessing attempts
+# - Score calculation
+# - High-score tracking
+# - JSON file storage
+# - Replay functionality
+# Developer: Ankita Katkar
+
+# ========================================
 
 import random
 import json
@@ -164,7 +193,7 @@ def play_game():
         guesses += 1
 
         if user_guess == random_number:
-            score = max(10, 100 - (guesses - 1) * 10)
+            score = max(0, 100 - (guesses - 1) * 10)
 
             print("\nCongratulations! You guessed correctly!")
             print(f"Attempts used: {guesses}")
