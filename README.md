@@ -1,31 +1,30 @@
-🐍 21 Python Projects Challenge
+# 🐍 21 Python Projects Challenge
 
 Welcome to my 21 Python Projects Challenge!
 
 I am building 21 Python projects to improve my programming skills, strengthen problem-solving abilities, and gain practical experience.
 
-🎯 Objectives
+## 🎯 Objectives
 
-Practise Python through real-world projects.
+- Practise Python through real-world projects.
+- Improve logical thinking.
+- Learn Python libraries and modules.
+- Understand file handling, APIs and OOP.
+- Build a strong GitHub portfolio.
 
-Improve logical thinking.
+## 📚 Project List
 
-Learn Python libraries and modules.
+| Day | Project Name | Status |
+|---|---|---|
+| 01 | Number Guessing Game | ✅ Completed |
+| 02 | Rock Paper Scissors Game | ✅ Completed |
 
-Understand file handling, APIs and OOP.
+## 📈 Progress
 
-Build a strong GitHub portfolio.
+**2 / 21 Projects Completed**
 
-📚 Project List
+## 👩‍💻 Author
 
-
-📈 Progress
-
-1 / 21 Projects Completed
-
-👩‍💻 Author
-
-Ankita Katkar
+**Ankita Katkar**
 
 Computer Science Graduate | Python Learner
-
