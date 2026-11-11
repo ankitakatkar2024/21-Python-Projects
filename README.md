@@ -18,10 +18,11 @@ I am building 21 Python projects to improve my programming skills, strengthen pr
 |---|---|---|
 | 01 | Number Guessing Game | ✅ Completed |
 | 02 | Rock Paper Scissors Game | ✅ Completed |
+| 03 | Choose Your Own Adventure Game | ✅ Completed |
 
 ## 📈 Progress
 
-**2 / 21 Projects Completed**
+**3 / 21 Projects Completed**
 
 ## 👩‍💻 Author
 
