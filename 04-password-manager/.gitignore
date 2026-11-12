@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Password manager private data
+key.key
+salt.key
+passwords.txt
+master.verifier
+
+# Environment files
+.env

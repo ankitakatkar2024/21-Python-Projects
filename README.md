@@ -22,6 +22,7 @@ I am building 21 Python projects to improve my programming skills, strengthen pr
 
 ## 📈 Progress
 
+
 **3 / 21 Projects Completed**
 
 ## 👩‍💻 Author
