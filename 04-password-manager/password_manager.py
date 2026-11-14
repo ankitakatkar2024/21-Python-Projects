@@ -1,3 +1,15 @@
+# ============================================================
+# PROJECT 04: PASSWORD MANAGER
+# ============================================================
+#
+# BASIC VERSION:
+# - Created a simple password manager using Python.
+# - Used Fernet symmetric encryption to encrypt passwords.
+# - Generated and loaded an encryption key using a key file.
+# - Added functionality to store and view passwords.
+# - Used file handling to save encrypted passwords.
+
+
 # from cryptography.fernet import Fernet
 
 # # def write_key():
@@ -18,8 +30,6 @@
 
 # # key + password + text to encrypt = random text
 # # random text + key + password = text to encrypt
-
-
    
 # def view():
 #     with open("passwords.txt", "r") as f:
@@ -56,6 +66,20 @@
 #     else:
 #         print("Invalid mode")
 
+
+
+# UPGRADED VERSION:
+# - Added master password authentication.
+# - Implemented PBKDF2 key derivation.
+# - Used SHA-256 hashing algorithm.
+# - Added random salt generation for stronger security.
+# - Implemented master password verification.
+# - Improved password encryption and decryption.
+# - Added input validation and error handling.
+# - Improved menu-driven user interface.
+#
+# TECHNOLOGIES:
+# Python | Cryptography | Fernet | PBKDF2 | SHA-256
 
 
 import os
