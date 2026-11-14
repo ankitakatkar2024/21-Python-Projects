@@ -1,4 +1,3 @@
-
 # 🐍 21 Python Projects Challenge
 
 Welcome to my **21 Python Projects Challenge!**
@@ -27,8 +26,10 @@ This challenge focuses on learning by building real projects, starting with begi
 | 01 | [Number Guessing Game](./01-number-guessing-game/) | Guess a randomly generated number with difficulty levels and score tracking. | ✅ Completed |
 | 02 | [Rock Paper Scissors Game](./02-rock-paper-scissors-game/) | Play Rock Paper Scissors against the computer with score tracking. | ✅ Completed |
 | 03 | [Choose Your Own Adventure Game](./03-choose-your-own-adventure-game/) | A text-based adventure game where choices determine the story's outcome. | ✅ Completed |
-| 04 | [Password Manager](./04-password-manager/) | Securely store and retrieve passwords using Fernet encryption and PBKDF2. | ✅ Completed |
-| 05–21 | Upcoming Projects | More Python projects coming soon! | ⏳ Planned |
+| 04 | [Password Manager](./04-password-manager/) | Store and retrieve passwords using Fernet encryption and PBKDF2 key derivation. | ✅ Completed |
+| 05 | [Pig Dice Game](./pig-dice-game/) | A multiplayer dice game where players roll, save points, and compete to reach 50. | ✅ Completed |
+| 06 | [Mad Libs Generator](./06-madlibs-generator/) | Generate funny and creative stories using words entered by the user. | ✅ Completed |
+| 07–21 | Upcoming Projects | More Python projects coming soon! | ⏳ Planned |
 
 ---
 
@@ -37,24 +38,25 @@ This challenge focuses on learning by building real projects, starting with begi
 Through these projects, I am learning and practising:
 
 - Python Fundamentals
+- Variables and Data Types
 - Conditional Statements and Loops
 - Functions and Modules
 - Lists, Tuples and Dictionaries
+- String Manipulation and F-Strings
 - File Handling
 - Exception Handling
 - Random Module
 - JSON
 - Cryptography and Encryption
-- Object-Oriented Programming
+- PBKDF2 and SHA-256
+- User Input Validation
 - Git and GitHub
 
 ---
 
 ## 📈 Challenge Progress
 
-**4 / 21 Projects Completed**
-
-<progress value="4" max="21"></progress>
+**6 / 21 Projects Completed**
 
 My goal is to complete all 21 projects while continuously improving my coding skills and building practical applications.
 
