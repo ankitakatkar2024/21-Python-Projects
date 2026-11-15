@@ -1,0 +1,14 @@
+
+In the <adjective> land of <place>, an <animal> was feeling <emotion>.
+
+One day, the <animal> lost its <object>.
+
+Suddenly, a <character> appeared and said, "I will help you find your <object>!"
+
+Together, they journeyed through <terrain> and faced the <weather_condition>.
+
+After a long adventure, they finally found the <object> in a <place2>.
+
+The <animal> was extremely <emotion2> and thanked the <character> for helping.
+
+From that day onwards, they lived <adverb> ever after.
