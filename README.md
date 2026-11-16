@@ -28,8 +28,9 @@ This challenge focuses on learning by building real projects, starting with begi
 | 03 | [Choose Your Own Adventure Game](./03-choose-your-own-adventure-game/) | A text-based adventure game where choices determine the story's outcome. | ✅ Completed |
 | 04 | [Password Manager](./04-password-manager/) | Store and retrieve passwords using Fernet encryption and PBKDF2 key derivation. | ✅ Completed |
 | 05 | [Pig Dice Game](./pig-dice-game/) | A multiplayer dice game where players roll, save points, and compete to reach 50. | ✅ Completed |
-| 06 | [Mad Libs Generator](./06-madlibs-generator/) | Generate funny and creative stories using words entered by the user. | ✅ Completed |
-| 07–21 | Upcoming Projects | More Python projects coming soon! | ⏳ Planned |
+| 06 | [Mad Libs Generator](./06-madlibs-generator/) | Generate funny and creative stories in English, Marathi, or Hindi using user-entered words. | ✅ Completed |
+| 07 | [Timed Math Challenge](./07-timed-math-challenge/) | Solve 10 random mathematical questions while tracking correct answers, wrong attempts, accuracy, and completion time. | ✅ Completed |
+| 08–21 | Upcoming Projects | More Python projects coming soon! | ⏳ Planned |
 
 ---
 
@@ -50,13 +51,16 @@ Through these projects, I am learning and practising:
 - Cryptography and Encryption
 - PBKDF2 and SHA-256
 - User Input Validation
+- Regular Expressions
+- Time Module and Performance Measurement
+- Mathematical Operations
 - Git and GitHub
 
 ---
 
 ## 📈 Challenge Progress
 
-**6 / 21 Projects Completed**
+**7 / 21 Projects Completed**
 
 My goal is to complete all 21 projects while continuously improving my coding skills and building practical applications.
 
